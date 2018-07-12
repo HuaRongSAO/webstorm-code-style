@@ -3,11 +3,11 @@
 
 
 ## Get Started
-- 1. Clone this 仓库.
+- 1.Clone this 仓库.
 ```shell
 git clone git@github.com:HuaRongSAO/webstorm-code-style.git
 ```
-- 2. 打开你的ide
-- 3.  `Preferences` > `Editor` > `Code Style`
-- 4. 找到`Scheme` 然后点击右边的图标 `Import Scheme` > `IntelliJ IDEA code style XML`.
+- 2.打开你的ide
+- 3.`Preferences` > `Editor` > `Code Style`
+- 4.找到`Scheme` 然后点击右边的图标 `Import Scheme` > `IntelliJ IDEA code style XML`
 - 5.选择你刚刚克隆下来的文件夹
